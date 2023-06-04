@@ -1,0 +1,15 @@
+C:\Users\ICT-LAP2\source\repos\loop1\loop1\bin\Debug\net6.0\loop1.exe
+C:\Users\ICT-LAP2\source\repos\loop1\loop1\bin\Debug\net6.0\loop1.deps.json
+C:\Users\ICT-LAP2\source\repos\loop1\loop1\bin\Debug\net6.0\loop1.runtimeconfig.json
+C:\Users\ICT-LAP2\source\repos\loop1\loop1\bin\Debug\net6.0\loop1.dll
+C:\Users\ICT-LAP2\source\repos\loop1\loop1\bin\Debug\net6.0\loop1.pdb
+C:\Users\ICT-LAP2\source\repos\loop1\loop1\obj\Debug\net6.0\loop1.csproj.AssemblyReference.cache
+C:\Users\ICT-LAP2\source\repos\loop1\loop1\obj\Debug\net6.0\loop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ICT-LAP2\source\repos\loop1\loop1\obj\Debug\net6.0\loop1.AssemblyInfoInputs.cache
+C:\Users\ICT-LAP2\source\repos\loop1\loop1\obj\Debug\net6.0\loop1.AssemblyInfo.cs
+C:\Users\ICT-LAP2\source\repos\loop1\loop1\obj\Debug\net6.0\loop1.csproj.CoreCompileInputs.cache
+C:\Users\ICT-LAP2\source\repos\loop1\loop1\obj\Debug\net6.0\loop1.dll
+C:\Users\ICT-LAP2\source\repos\loop1\loop1\obj\Debug\net6.0\refint\loop1.dll
+C:\Users\ICT-LAP2\source\repos\loop1\loop1\obj\Debug\net6.0\loop1.pdb
+C:\Users\ICT-LAP2\source\repos\loop1\loop1\obj\Debug\net6.0\loop1.genruntimeconfig.cache
+C:\Users\ICT-LAP2\source\repos\loop1\loop1\obj\Debug\net6.0\ref\loop1.dll
