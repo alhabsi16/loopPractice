@@ -17,23 +17,27 @@
              
                
             
-            for (int i = 0; i < 5; i++)
+            // ptint the first line
+            int i = 0;
+            while (i<5)
             {
-
-                Console.Write("*" );
-                
+                Console.Write("*");
+                i++;
             }
             Console.WriteLine();
 
-            for(int i = 0;i < 3;i++)
+            int j = 0;
+            while (j<3)
             {
-                Console.WriteLine("*   *" );
+                Console.Write("*   *");
+                j++;
+                Console.WriteLine();
             }
-            for (int i = 0; i < 5; i++)
+            int k = 0;
+            while (k < 5)
             {
-
                 Console.Write("*");
-
+                k++;
             }
         }
     }
